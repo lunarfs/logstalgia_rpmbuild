@@ -1,3 +1,6 @@
+# Description
+This project aims at providing an easy way of creating an rpm for installing logstalgia from https://github.com/acaudwell/Logstalgia/
+
 # Build the docker container 
 Build and name the docker container logstalgia:v1
 
